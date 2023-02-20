@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\bin\Debug\Escopo.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\bin\Debug\Escopo.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\bin\Debug\Escopo.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\obj\Debug\Escopo.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\obj\Debug\Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\obj\Debug\Escopo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\obj\Debug\Escopo.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\Escopo\obj\Debug\Escopo.pdb

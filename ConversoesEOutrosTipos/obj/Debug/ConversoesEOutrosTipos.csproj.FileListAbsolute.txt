@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\bin\Debug\ConversoesEOutrosTipos.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\bin\Debug\ConversoesEOutrosTipos.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\bin\Debug\ConversoesEOutrosTipos.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\obj\Debug\ConversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\obj\Debug\ConversoesEOutrosTipos.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\obj\Debug\ConversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\obj\Debug\ConversoesEOutrosTipos.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\ConversoesEOutrosTipos\obj\Debug\ConversoesEOutrosTipos.pdb

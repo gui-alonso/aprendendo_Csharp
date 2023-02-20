@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\bin\Debug\CalculaProjeto2.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\bin\Debug\CalculaProjeto2.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\bin\Debug\CalculaProjeto2.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\obj\Debug\CalculaPoupanca2.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\obj\Debug\CalculaPoupanca2.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\obj\Debug\CalculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\obj\Debug\CalculaProjeto2.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\CalculaProjeto2\obj\Debug\CalculaProjeto2.pdb

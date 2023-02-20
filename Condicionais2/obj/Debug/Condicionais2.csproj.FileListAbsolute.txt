@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\bin\Debug\Condicionais2.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\bin\Debug\Condicionais2.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\bin\Debug\Condicionais2.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\obj\Debug\Condicionais2.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\obj\Debug\Condicionais2.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\obj\Debug\Condicionais2.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\obj\Debug\Condicionais2.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\Condicionais2\obj\Debug\Condicionais2.pdb

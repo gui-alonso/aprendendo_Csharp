@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\bin\Debug\InvestimentoALongoPrazo.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\InvestimentoALongoPrazo\obj\Debug\InvestimentoALongoPrazo.pdb

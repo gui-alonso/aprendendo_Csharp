@@ -1,0 +1,8 @@
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\bin\Debug\EstruturaCondicionais.exe.config
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\bin\Debug\EstruturaCondicionais.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\bin\Debug\EstruturaCondicionais.pdb
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\obj\Debug\EstruturaCondicionais.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\obj\Debug\EstruturaCondicionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\obj\Debug\EstruturaCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\obj\Debug\EstruturaCondicionais.exe
+C:\Users\guilh\source\repos\AprendendoCsharp\EstruturaCondicionais\obj\Debug\EstruturaCondicionais.pdb
